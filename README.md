@@ -102,21 +102,8 @@ Let's see :
 
 
 
-<iframe width="900" height="600"
-src="https://www.youtube.com/embed/ncegr7o8WZY" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Click here](https://img.youtube.com/vi/ncegr7o8WZY/0.jpg)](https://www.youtube.com/watch?v=ncegr7o8WZY) 
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/ncegr7o8WZ"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
 
 
 cool : 
@@ -179,14 +166,7 @@ i had some problemes regarding time of the video so i didn't intercept all the t
 
 
 
-<iframe width="900" height="600"
-src="https://www.youtube.com/embed/cP5UoxQI-0c" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-
-https://www.youtube.com/watch?v=cP5UoxQI-0c
+[![Click here](https://img.youtube.com/vi/cP5UoxQI-0c/0.jpg)](https://www.youtube.com/watch?v=cP5UoxQI-0c) 
 
 
 # I HOPE YOU ENJOY IT 
