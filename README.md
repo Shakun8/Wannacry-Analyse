@@ -170,3 +170,6 @@ i had some problemes regarding time of the video so i didn't intercept all the t
 
 
 # I HOPE YOU ENJOY IT 
+
+and at end "i recommand to use linux inteand of all this xd"
+![image info](https://pbs.twimg.com/media/C_7I8OgUIAALg0r?format=jpg&name=900x900)
